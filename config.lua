@@ -1,6 +1,6 @@
 Config = {}
 
-Config.BailPrice = 250
+Config.BailPrice = 1000
 
 Config.Vehicles = {
     ["flatbed"] = "Flatbed",
@@ -9,11 +9,11 @@ Config.Vehicles = {
 Config.Locations = {
     ["main"] = {
         label = "Towing HQ",
-        coords = vector4(471.39, -1311.03, 29.21, 114.5),
+        coords = vector4(-185.5, -1165.18, 23.67, 121.12),
     },
     ["vehicle"] = {
         label = "Flatbed",
-        coords = vector4(489.65, -1331.82, 29.33, 306.5),
+        coords = vector4(-211.23, -1169.64, 23.04, 82.14),
     },
     ["towspots"] = {
         [1] =  {model = "sultanrs", coords = vector3(-2480.8720703125, -211.96409606934, 17.397672653198)},
